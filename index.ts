@@ -73,5 +73,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("otro cambio");
 }
 main();
